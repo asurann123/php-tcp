@@ -8,4 +8,6 @@
       ```
 
 2. Access
-    - http://localhost:8383/index.php
+    - ```bash
+      curl 127.0.0.1:8380 -v
+      ```
